@@ -7,7 +7,8 @@ defineProps({
 
 </script>
 <template>
-    <div class="font-sans font-normal uppercase" :class="{ 'text-[#FFFFFF]': active, 'text-[#FFFFFFBA]': !active }">
+    <div class="font-sans font-normal uppercase text-sm"
+        :class="{ 'text-[#FFFFFF]': active, 'text-[#FFFFFFBA]': !active }">
         {{ title }}
     </div>
 </template>

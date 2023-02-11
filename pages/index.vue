@@ -1,7 +1,7 @@
 <script setup>
 
 useHead({
-    title: "The Progarmmer"
+    title: "The Programmer"
 })
 
 const openDrawer = ref(false)
@@ -13,5 +13,6 @@ const openDrawer = ref(false)
     xl:max-w-[1240px] ">
         <Navbar @drawer-action="openDrawer = !openDrawer" />
         <NavbarDrawermenu v-if="openDrawer" />
+        <Hero />
     </div>
 </template>
