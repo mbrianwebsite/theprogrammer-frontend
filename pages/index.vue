@@ -15,5 +15,6 @@ const openDrawer = ref(false)
         <NavbarDrawermenu v-if="openDrawer" />
         <Hero />
         <Supporting />
+        <Section2 />
     </div>
 </template>

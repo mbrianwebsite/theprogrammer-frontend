@@ -9,7 +9,6 @@
             <div class="font-mono font-medium text-4xl text-white leading-[120%] tracking-[-0.09em] max-w-[938px] text-center -mb-6
             sm:text-5xl sm:leading-[120%] sm:tracking-[-0.09em]
             md:text-7xl md:leading-[120%] md:tracking-[-0.09em] md:text-start md:mb-0
-            xl:leading-[120%] xl:tracking-[-0.09em]
            ">
                 Expert Developers for a Connected <span class="text-[#84EC8E]">{World}</span>
             </div>
