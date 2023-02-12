@@ -14,5 +14,6 @@ const openDrawer = ref(false)
         <Navbar @drawer-action="openDrawer = !openDrawer" />
         <NavbarDrawermenu v-if="openDrawer" />
         <Hero />
+        <Supporting />
     </div>
 </template>

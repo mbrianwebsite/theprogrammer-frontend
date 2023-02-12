@@ -1,9 +1,9 @@
 <template>
-    <div class="flex flex-col mx-3 mt-[40px] 
-    sm:mt-[60px] sm:mx-5
-    md:mt-[75px] md:mx-7 md:gap-8
-    lg:mt-[80px] lg:mx-9 lg:gap-10
-    xl:mt-[90px] xl:mx-11 xl:gap-14">
+    <div class="flex flex-col mx-3 my-[40px] 
+    sm:my-[60px] sm:mx-5
+    md:my-[75px] md:mx-7 md:gap-8
+    lg:my-[80px] lg:mx-9 lg:gap-10
+    xl:my-[90px] xl:mx-11 xl:gap-14">
         <div class="flex flex-col items-center w-full gap-8
         md:flex-row md:gap-0">
             <div class="font-mono font-medium text-4xl text-white leading-[120%] tracking-[-0.09em] max-w-[938px] text-center -mb-6
@@ -36,6 +36,6 @@
                 of inspiration.
             </div>
         </div>
-        <img class="mt-10 md:mt-[72px]" src="~/assets/img/hero-illustration.svg" alt="Hero Image">
+        <img class="my-10 md:my-[72px]" src="~/assets/img/hero-illustration.svg" alt="Hero Image">
     </div>
 </template>

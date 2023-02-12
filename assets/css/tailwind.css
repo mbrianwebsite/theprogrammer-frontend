@@ -7,4 +7,31 @@
   html {
     @apply bg-[#03090E];
   }
+  :root {
+    --primary: rgba(15, 20, 22, 0.1);
+    --secondary: rgba(15, 20, 22, 0.18);
+  }
+
+  /* Firefox */
+  * {
+    scrollbar-hight: thin;
+    scrollbar-color: var(--secondary) var(--primary);
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    height: 5px;
+    width: 10px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: var(--primary);
+    border-radius: 5px;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: var(--secondary);
+    border-radius: 14px;
+    border: 3px solid var(--primary);
+  }
 }
