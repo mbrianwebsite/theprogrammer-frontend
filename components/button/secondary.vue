@@ -5,7 +5,7 @@ defineProps({
 </script>
 
 <template>
-    <div class="flex flex-row items-center gap-2 px-6 py-4 bg-[#1C2012] min-w-fit min-h-fit  mx-auto">
+    <div class="flex flex-row items-center gap-2 px-6 py-4 bg-[#1C2012] min-w-fit h-fit  mx-auto">
         <div class="font-sans font-normal uppercase text-white text-sm">
             {{ title }}
         </div>

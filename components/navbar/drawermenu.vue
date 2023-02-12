@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-[#3F423733] flex flex-col gap-6 mx-auto items-center py-6
-    md:hidden">
+    <div class="bg-[#0F1416]  flex flex-col gap-10 mx-auto items-center py-6 w-full
+    md:hidden fixed">
         <NavbarMenu />
         <NavbarButton title="Sign Up" :mini="true" />
     </div>

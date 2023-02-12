@@ -3,7 +3,8 @@ const hamburger = ref(true)
 </script>
 
 <template>
-    <div class="bg-[#3F423733] flex flex-row justify-between px-8 py-7 mt-6 
+    <div class="bg-[#3F423733] flex flex-row justify-between px-6 py-7 mt-6 
+    sm:px-8
     ">
         <NavbarLogo />
         <NavbarMainmenu />
