@@ -17,5 +17,6 @@ const openDrawer = ref(false)
         <Supporting />
         <Section2 />
         <Section3 />
+        <Section4 />
     </div>
 </template>

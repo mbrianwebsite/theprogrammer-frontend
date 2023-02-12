@@ -26,6 +26,7 @@
                     Import and run GitHub repositories directly. Alternatively, you can commit your source code to a
                     repository.
                 </div>
+                <LinkButton title="Read More" />
             </div>
         </div>
         <LinkButton class="mx-auto md:mx-0 md:mt-10" title="Explore More Services" />

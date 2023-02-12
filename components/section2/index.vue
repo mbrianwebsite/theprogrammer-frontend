@@ -7,8 +7,8 @@
     xl:my-[162px] xl:mx-11 xl:gap-10
     ">
         <div class="flex flex-col max-w-[660px] gap-y-10 mx-auto">
-            <div class="font-mono font-medium text-2xl text-white leading-[120%] tracking-[-2%] text-center -mb-6
-            sm:text-3xl sm:leading-[120%] sm:tracking-[-2%] md:text-start md:mb-0
+            <div class="font-mono font-medium text-3xl text-white leading-[120%] tracking-[-2%] text-center -mb-6
+            md:text-4xl md:leading-[120%] md:tracking-[-2%] md:text-start md:mb-0
             lg:text-5xl lg:leading-[120%] lg:tracking-[-2%] ">
                 Finally you can develop <span class="text-[#84EC8E]">{full-stack}</span> web applications in one place.
             </div>
