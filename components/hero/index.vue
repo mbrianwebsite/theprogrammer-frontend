@@ -12,7 +12,7 @@
            ">
                 Expert Developers for a Connected <span class="text-[#84EC8E]">{World}</span>
             </div>
-            <div class="font-sans font-normal text-sm text-center text-white leading-5 tracking-[2%]
+            <div class="font-sans font-normal text-sm text-center text-white leading-5 tracking-[2%] opacity-80
             md:hidden">
                 Circle is a code development platform that gives innovators the speed and reliability they need to
                 create at the speed

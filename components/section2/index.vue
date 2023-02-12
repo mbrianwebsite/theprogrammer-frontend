@@ -12,7 +12,7 @@
             lg:text-5xl lg:leading-[120%] lg:tracking-[-2%] ">
                 Finally you can develop <span class="text-[#84EC8E]">{full-stack}</span> web applications in one place.
             </div>
-            <div class="font-sans font-normal text-lg text-white leading-[150%] tracking-[2%] text-center
+            <div class="font-sans font-normal text-lg text-white leading-[150%] tracking-[2%] text-center opacity-80
             md:text-start">
                 Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis
                 enim velit

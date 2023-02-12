@@ -8,7 +8,7 @@ const hamburger = ref(true)
     ">
         <NavbarLogo />
         <NavbarMainmenu />
-        <NavbarButton title="Sign Up" :mini="false" />
+        <LinkButtonnav title="Sign Up" :mini="false" />
         <NavbarHamburger @click="$emit('drawerAction'); hamburger = !hamburger" :hamburger="hamburger" />
     </div>
 </template>
