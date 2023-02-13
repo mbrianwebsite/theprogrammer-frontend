@@ -6,8 +6,8 @@
         lg:my-[152px] lg:mx-9 lg:gap-10
         xl:my-[162px] xl:mx-11 xl:gap-12
         ">
-        <div class="flex flex-col mx-auto gsm-6">
-            <div class="font-mono font-medium text-3xl text-white leading-[110%] tracking-[-0.02em] text-center mb-2
+        <div class="flex flex-col mx-auto gap-6">
+            <div class="font-mono font-medium text-3xl text-white leading-[110%] tracking-[-0.02em] text-center -mb-2
             sm:text-4xl sm:leading-[110%]  sm:tracking-[-0.02em]
            md:leading-[110%] md:tracking-[-0.02em] 
             lg:text-5xl lg:leading-[110%] lg:tracking-[-0.02em] ">
