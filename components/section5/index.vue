@@ -7,10 +7,11 @@
         xl:my-[162px] xl:mx-11 xl:gap-12
         ">
         <div class="flex flex-col mx-auto gap-12">
-            <div class="font-mono font-medium text-3xl text-white leading-[110%] tracking-[-0.02em] text-center min-w-[350px] max-w-[1100px] -mb-8
+            <div class="font-mono font-medium text-3xl text-white leading-[110%] tracking-[-0.02em] text-center min-w-[350px] -mb-8
             sm:text-4xl sm:leading-[110%] sm:tracking-[-0.02em]
-            md:leading-[110%] md:tracking-[-0.02em] md:text-start md:mb-0
-            lg:text-5xl lg:leading-[110%] lg:tracking-[-0.02em] ">
+            md:leading-[110%] md:tracking-[-0.02em] md:text-start md:mb-0 md:max-w-[750px]
+            lg:text-5xl lg:leading-[110%] lg:tracking-[-0.02em] lg:max-w-[900px]
+            xl:max-w-[1100px]">
                 Circle provides teams and individuals with customizable <span class="text-[#84EC8E]">{management
                     tools}</span>
                 for your source code.
