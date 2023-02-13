@@ -1,3 +1,13 @@
+<script setup>
+import logo1 from '~/assets/img/company-logo-1.svg'
+import logo2 from '~/assets/img/company-logo-2.svg'
+import logo3 from '~/assets/img/company-logo-3.svg'
+import logo4 from '~/assets/img/company-logo-4.svg'
+import logo5 from '~/assets/img/company-logo-5.svg'
+import logo6 from '~/assets/img/company-logo-6.svg'
+import logo7 from '~/assets/img/company-logo-7.svg'
+</script>
+
 <template>
     <div class="
         flex flex-col justify-center mx-3 my-[80px]
@@ -26,19 +36,19 @@
             md:mb-0 md:gap-3
             lg:-mb-1 lg:gap-4
             xl:-mb-2 xl:gap-5">
-            <LogoCard logo="company-logo-1.svg" />
-            <LogoCard logo="company-logo-2.svg" />
-            <LogoCard logo="company-logo-3.svg" />
-            <LogoCard logo="company-logo-4.svg" />
+            <LogoCard :logo="logo1" />
+            <LogoCard :logo="logo2" />
+            <LogoCard :logo="logo3" />
+            <LogoCard :logo="logo4" />
         </div>
         <div class="flex flex-row mx-auto gap-1 w-fit
             sm:gap-2
             md:gap-3
             lg:gap-4
             xl:gap-5">
-            <LogoCard logo="company-logo-5.svg" />
-            <LogoCard logo="company-logo-6.svg" />
-            <LogoCard logo="company-logo-7.svg" />
+            <LogoCard :logo="logo5" />
+            <LogoCard :logo="logo6" />
+            <LogoCard :logo="logo7" />
         </div>
     </div>
     <div class="
