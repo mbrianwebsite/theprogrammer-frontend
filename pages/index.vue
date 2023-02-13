@@ -23,5 +23,6 @@ const openDrawer = ref(false)
             <Section6 />
             <Section7 />
         </div>
+        <Footer />
     </div>
 </template>
